@@ -1,12 +1,12 @@
-# AutoFatturator2000 — Release
+# AutoFatturator — Release
 
-Questa repo ospita solo gli installer pubblicati di **AutoFatturator2000**, l'app desktop Windows per l'estrazione automatica di dati da documenti tramite OCR e l'invio al Portale.
+Questa repo ospita solo gli installer pubblicati di **AutoFatturator**, l'app desktop Windows per l'estrazione automatica di dati da documenti tramite OCR e l'invio al Portale.
 
 Il codice sorgente è mantenuto in una repo privata separata; qui trovi esclusivamente i pacchetti di installazione delle release, generati automaticamente ad ogni versione taggata.
 
 ## Download
 
-Vai alla sezione [Releases](../../releases) e scarica `AutoFatturator2000-Setup.exe` dell'ultima versione.
+Vai alla sezione [Releases](../../releases) e scarica `AutoFatturator-Setup.exe` dell'ultima versione.
 
 ## Installazione
 
