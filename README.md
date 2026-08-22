@@ -6,7 +6,10 @@ Il codice sorgente è mantenuto in una repo privata separata; qui trovi esclusiv
 
 ## Download
 
-Vai alla sezione [Releases](../../releases) e scarica `AutoFatturator-Setup.exe` dell'ultima versione.
+Vai alla sezione [Releases](../../releases) e scarica l'installer dell'ultima versione:
+
+- **`AutoFatturator-Setup.exe`** — versione standard (CPU), va bene per la maggior parte dei PC.
+- **`AutoFatturator-Setup-GPU.exe`** — versione accelerata via GPU, per chi ha una scheda video NVIDIA compatibile (elaborazione OCR molto più veloce). Se hai già la versione standard installata, l'app la rileva da sola e propone il passaggio in automatico — non serve scaricarla a mano.
 
 ## Installazione
 
